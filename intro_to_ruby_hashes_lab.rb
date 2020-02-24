@@ -21,3 +21,5 @@ def id_generator
   hash = {
     :id = math.rand
   }
+end 
+
