@@ -10,3 +10,9 @@ def my_hash
     :dad => "Greg",
   }
 end
+
+def pioneer 
+  hash = {
+    :name => "Grace Hopper",
+  }
+end
