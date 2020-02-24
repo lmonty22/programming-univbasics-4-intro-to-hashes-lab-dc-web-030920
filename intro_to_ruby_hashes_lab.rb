@@ -19,7 +19,7 @@ end
 
 def id_generator 
   hash = {
-    :id => math.rand
+    :id => math.random
   }
 end 
 
